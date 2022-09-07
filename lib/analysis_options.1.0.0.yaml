@@ -14,6 +14,7 @@ linter:
     omit_local_variable_types: false
     sort_constructors_first: false
     sort_child_properties_last: false
+    sort_pub_dependencies: false
     sort_unnamed_constructors_first: false
     prefer_int_literals: false
 
